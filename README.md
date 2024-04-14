@@ -11,4 +11,4 @@ distance = Vector.dist sprite, vector1
 Vector.sub(vector2, sprite).invX().norm().mult 5
 ```
 
-If it will be useful - i'm complete it.
+If it will be somebody useful - i'm complete it later and make package.
